@@ -75,6 +75,8 @@ It enables:
 
 👉 By repeatedly experimenting, users develop the exact mindset needed for **proof-based questions in exams and interviews**.
 
+![Information](public/screenshots/info.png)
+
 ---
 
 ## 💡 Use Cases  
@@ -95,11 +97,13 @@ It enables:
 - Professors can demonstrate concepts live  
 - Makes lectures interactive and engaging  
 
+
+![Use Cases](public/screenshots/use-cases.png)
 ---
 
 ## 🌐 Live Demo  
 
-🔗 **[Try the Live Demo](https://explorers.net.in/)** *(update if needed)*  
+🔗 **[Try the Live Demo](https://explorers.net.in/)** 
 
 ---
 
@@ -109,6 +113,8 @@ It enables:
 - Define languages like `a^n b^n`, `0^n1^n`, etc.  
 - Input custom strings satisfying `|s| ≥ p`  
 
+
+![Concept](public/screenshots/demo.png)
 ---
 
 ### 📏 Pumping Length Control  
@@ -151,6 +157,7 @@ It enables:
 - Helps beginners understand each constraint  
 - Explains *why each step matters*  
 
+![Guided Mode](public/screenshots/guided_proof.png)
 ---
 
 ### 🔄 Sequencer Mode  
@@ -158,20 +165,26 @@ It enables:
 - Shows pattern of string transformations  
 - Useful for spotting violations quickly  
 
+![Sequencer Mode](public/screenshots/sequencer_mode.png)
 ---
 
 ### ⚔️ Adversarial Mode  
 - Simulates worst-case decomposition choices  
 - Mimics how proofs are structured in exams  
-- Forces user to think critically about all possibilities  
+- Forces user to think critically about all possibilities
+- Advantage of adversarial mode: users can click any case to view its complete visualization if they don’t understand it.
 
+![Adversarial Mode](public/screenshots/adversarial.png)
 ---
 
 ### 🔀 Multi-Case Mode  
 - Explore multiple decompositions simultaneously  
 - Compare outcomes across different `x, y, z` splits  
 - Understand **universality condition** of the lemma  
+- Provides a detailed table providing compilation of all cases
 
+![Multi-Case](public/screenshots/multi1.png)
+![Multi-Case](public/screenshots/multi2.png)
 ---
 
 ## 🏗️ Feature Summary  
@@ -202,5 +215,5 @@ It enables:
 
 ---
 
-## 📂 Project Structure  
+
 
