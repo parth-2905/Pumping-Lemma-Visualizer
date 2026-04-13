@@ -103,7 +103,7 @@ It enables:
 
 ## 🌐 Live Demo  
 
-🔗 **[Try the Live Demo](https://explorers.net.in/)** 
+🔗 **[Try the Live Demo](https://parth-2905.github.io/Pumping-Lemma-Visualizer/)** 
 
 ---
 
