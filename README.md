@@ -165,7 +165,7 @@ It enables:
 - Shows pattern of string transformations  
 - Useful for spotting violations quickly  
 
-![Sequencer Mode](public/screenshots/sequencer_mode.png)
+![Sequencer Mode](public/screenshots/live_sequencer.png)
 ---
 
 ### ⚔️ Adversarial Mode  
